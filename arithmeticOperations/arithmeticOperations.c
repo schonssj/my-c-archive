@@ -5,6 +5,7 @@
 void main() 
 {
     int a = 6, b = 3;
+
     printf("The sum between %d and %d is %d", a, b, a + b);
     printf("\n The subtraction between %d and %d is %d", a, b, a - b);
     printf("\n The multiplication of %d by %d is %d", a, b, a * b);
